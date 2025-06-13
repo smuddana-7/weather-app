@@ -7,7 +7,7 @@ It fetches real-time weather data using the [OpenWeatherMap API](https://openwea
 
 ### 🔗 Live Demo
 
-👉 [Try it live →](https://your-username.github.io/weather-app/)
+👉 [Try it live →](https://smuddana-7.github.io/weather-app/)
 
 ---
 
