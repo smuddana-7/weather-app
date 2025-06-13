@@ -24,6 +24,6 @@ It fetches real-time weather data using the [OpenWeatherMap API](https://openwea
 ### 🚀 Get Started Locally
 
 ```bash
-git clone https://github.com/your-username/weather-app.git
+git clone https://github.com/smuddana-7/weather-app.git
 cd weather-app
 open index.html
